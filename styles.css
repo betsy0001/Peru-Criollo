@@ -1,0 +1,26 @@
+body{
+  background: url("./comida.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.box{
+    background-color: burlywood;
+    background-size: 100px;
+    border:1px solid black;
+    padding: 1px;
+    margin:10px;
+    text-align:center;
+    position: fixed;
+   right: 30%;
+   bottom: 40%;
+   z-index: 100;
+}
+
+h1{
+    font-size: 100px;
+    font-style: oblique;
+    color:#752333
+   
+    
+
+}
